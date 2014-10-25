@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FinApps</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Dj Subelooo, maqui!</string>
+    <string name="title_activity_my_activity2">MyActivity2</string>
+    <string name="title_activity_my_activity3">MyActivity3</string>
+    <string name="title_activity_my_activity4">MyActivity4</string>
+    <string name="title_activity_my_activity5">MyActivity5</string>
+    <string name="title_activity_my_activity6">MyActivity6</string>
+    <string name="title_activity_my_activity7">MyActivity7</string>
+
+</resources>

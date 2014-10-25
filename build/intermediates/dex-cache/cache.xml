@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/Ignasi/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-d66130eb77509c6c0b77ec77fba8eaf0701680f5.jar"
+        jar="/Users/Ignasi/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33"/>
+    <item
+        dex="/Users/Ignasi/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-920a3560405c0eb821479a9b631c119778a1f8e8.jar"
+        jar="/Users/Ignasi/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56"/>
+    <item
+        dex="/Users/Ignasi/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/Ignasi/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-5ef7a8b3d6eba1c36d09eda6269b12195b3b30ed.jar"
+        jar="/Users/Ignasi/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="711351f12980fffdff7f1b0be9303ac6611affd8"/>
+    <item
+        dex="/Users/Ignasi/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-de42c8f727f7a9d0228595c400200c49fdc70949.jar"
+        jar="/Users/Ignasi/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/Ignasi/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-f5ae9d0a0f708e160de7878641f2b39a89e1401a.jar"
+        jar="/Users/Ignasi/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/Ignasi/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-bcad480bd30e41eda42b620464e542cf1fe1eb83.jar"
+        jar="/Users/Ignasi/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.support/wearable/1.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6804efbb78d7facc2e1aa107c7342bee83afae45"/>
+
+</pre-dex-items>
